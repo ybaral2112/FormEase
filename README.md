@@ -8,7 +8,7 @@ This project demonstrates real-time form input validation and error handling usi
 ## 🚀 Live Demo
 
 👉 **Hosted on AWS S3:**  
-[http://your-bucket-name.s3-website-region.amazonaws.com](http://form-validation-aap.s3-website-region.amazonaws.com)
+[http://form-validation-app.s3-website.ap-south-1.amazonaws.com]
 
 *(Replace with your actual live URL once deployed)*
 
